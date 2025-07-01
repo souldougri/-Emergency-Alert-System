@@ -1,0 +1,9 @@
+{
+  "fullName": "Mobile Test User",
+  "phoneNumber": "+1234567890",
+  "location": {
+    "type": "Point",
+    "coordinates": [-74.006, 40.7128]
+  },
+  "address": "Mobile App Test Location"
+}
